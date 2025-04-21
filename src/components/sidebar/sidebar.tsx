@@ -67,6 +67,7 @@ const AppSidebar = () => {
         </SidebarGroup>
       </SidebarContent>
       <SidebarFooter>
+        
         <ModeToggle />
       </SidebarFooter>
     </Sidebar>
